@@ -1,4 +1,3 @@
 # MyFirstFolder
 Trial GitHub repository
-
-This repository contains simple Java programs.
+This repository is for testing and learning GitHub
