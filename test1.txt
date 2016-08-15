@@ -1,3 +1,2 @@
 This is a test file for GitHub.
 Edited on 6/11/15
-Oops! a wrong line printed!
